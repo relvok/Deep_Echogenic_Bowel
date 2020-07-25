@@ -1,0 +1,8 @@
+The following packages need to be installed before running main.py:
+
+opencv
+pillow
+pyqt5
+tensorflow
+keras
+matplotlib
